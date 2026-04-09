@@ -52,7 +52,7 @@ const ALL_COURSES = [
 
 const FEATURES = [
   { icon: Users, title: "1-on-1 Sessions", desc: "Every student gets undivided attention and a customized learning pace." },
-  { icon: Clock, title: "Flexible Timing", desc: "Classes available 24/7 to suit any time zone across the globe." },
+  { icon: Clock, title: "Flexible Timing", desc: "Students from any country can choose class timings according to their own convenience and time zone." },
   { icon: Award, title: "Certified Qaris", desc: "All teachers hold authentic Ijazah certification for Quran recitation." },
   { icon: BookOpen, title: "Structured Syllabi", desc: "Carefully designed courses that build skills step by step." },
 ];

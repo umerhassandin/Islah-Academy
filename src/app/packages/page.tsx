@@ -173,6 +173,8 @@ export default function PackagesPage() {
             {[
               "One-on-one live sessions via Zoom/Skype",
               "Certified Ijazah-holder teachers",
+              "Female teachers available for sisters and kids",
+              "Students from any country can choose class timings according to their own convenience and time zone",
               "Flexible scheduling across all time zones",
               "Personalized curriculum based on your level",
               "Free trial lesson before committing",

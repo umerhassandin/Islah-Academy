@@ -46,6 +46,9 @@ export default function WhyChooseUs() {
           <p className="max-w-2xl mx-auto text-primary-700/80 leading-relaxed italic">
             Connecting students across the globe with the pure essence of Quranic recitation through our expert pedagogical approach.
           </p>
+          <p className="max-w-2xl mx-auto text-primary-700/80 leading-relaxed italic mt-4">
+            Female teachers available for sisters and kids. Students from any country can choose class timings according to their own convenience and time zone.
+          </p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">

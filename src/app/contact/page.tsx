@@ -240,7 +240,7 @@ export default function ContactPage() {
               { emoji: "🎓", title: "Book Free Trial", desc: "Get a no-commitment free lesson to experience our teaching quality first-hand." },
               { emoji: "📅", title: "Schedule Inquiry", desc: "Ask about class timings that fit your or your child&apos;s daily schedule." },
               { emoji: "💰", title: "Payment Options", desc: "Learn about monthly, quarterly, or yearly billing — including sibling discounts." },
-              { emoji: "👩‍🏫", title: "Teacher Selection", desc: "Request a specific Qari or ask for a teacher recommendation based on your goals." },
+              { emoji: "👩‍🏫", title: "Teacher Selection", desc: "Request a specific Qari or ask for a teacher recommendation, including female teachers for sisters and kids." },
               { emoji: "📚", title: "Course Guidance", desc: "Not sure which course to start with? Our team will guide you step by step." },
               { emoji: "🌍", title: "Technical Support", desc: "Need help setting up Zoom, Skype, or another platform? We&apos;ll help you get started." },
             ].map(item => (

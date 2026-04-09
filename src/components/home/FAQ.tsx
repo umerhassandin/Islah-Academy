@@ -22,7 +22,7 @@ const FAQ_ITEMS = [
   },
   {
     question: "Can girls and women study with female teachers?",
-    answer: "Currently, we have male teachers (Qaris) specializing in children and adults. We are in the process of expanding our team to include female instructors as well.",
+    answer: "Female teachers available for sisters and kids. Students from any country can choose class timings according to their own convenience and time zone.",
   },
 ];
 
