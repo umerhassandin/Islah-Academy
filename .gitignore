@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Next.js build output (regenerate with npm run build)
+.next/
+out/
+
+# Local / accidental artifacts
+*.zip
+build_output.txt
+homepage*.html
+temp_deploy_check/
+
+# Debug / OS
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+.pnpm-debug.log*
+
+# Env (never commit secrets)
+.env
+.env*.local
+
+# IDE
+.idea/
+.vscode/
