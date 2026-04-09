@@ -3,8 +3,41 @@
 @tailwind utilities;
 
 @layer base {
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
   body {
-    @apply bg-secondary text-primary-900 font-inter antialiased selection:bg-gold-500 selection:text-white;
+    @apply bg-secondary text-primary-900 font-inter antialiased min-h-screen;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  button,
+  input,
+  textarea,
+  select {
+    font: inherit;
+  }
+
+  img,
+  video {
+    max-width: 100%;
+    display: block;
+  }
+
+  ::selection {
+    @apply bg-gold-500 text-white;
   }
 }
 

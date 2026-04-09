@@ -30,7 +30,7 @@ export default function Navbar() {
               className="w-12 h-12 rounded-xl object-cover group-hover:scale-110 transition-all duration-300 shadow-premium transform group-hover:rotate-6"
             />
             <span className="font-outfit font-bold text-3xl text-primary-900 hidden sm:block tracking-tighter">
-              Islah Academy
+              Islah Quran Academy
             </span>
             <span className="font-outfit font-bold text-2xl text-primary-900 sm:hidden tracking-tighter">
               Islah

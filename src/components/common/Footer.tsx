@@ -17,7 +17,7 @@ export default function Footer() {
                 alt="Islah Quran Academy logo"
                 className="w-10 h-10 rounded-xl object-cover shadow-lg transform rotate-3"
               />
-              <span className="font-outfit font-bold text-2xl tracking-tight">Islah Academy</span>
+              <span className="font-outfit font-bold text-2xl tracking-tight">Islah Quran Academy</span>
             </div>
             <p className="text-emerald-100/60 mb-8 leading-relaxed font-light">
               Empowering students globally with authentic Quranic education. Join thousands of learners mastering the holy book with precision and spiritual depth.

@@ -92,7 +92,7 @@ export default function AboutPage() {
               <div className="relative z-10 rounded-2xl overflow-hidden border-8 border-white shadow-2xl group">
                  {/* Replace with actual image: Academy/Lead Teacher photo */}
                 <img 
-                  src="https://picsum.photos/id/1005/700/700" 
+                  src="/images/qari-saleem-ur-rehman.png" 
                   alt="Qari Saleem Ur Rehman" 
                   className="w-full h-auto object-cover group-hover:rotate-1 transition duration-500 scale-105" 
                 />
